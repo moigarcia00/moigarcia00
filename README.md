@@ -13,12 +13,8 @@
 
 **Lenguajes y herramientas que utilizo:**
 
-<p align="left">
-  <img src="https://shields.io" alt="HTML5" /> &nbsp;
-  <img src="https://shields.io" alt="CSS3" /> &nbsp;
-  <img src="https://shields.io" alt="JavaScript" /> &nbsp;
-  <img src="https://shields.io" alt="Git" />
-</p>
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JAVASCRIPT](https://shields.io) ![GIT](https://shields.io)
+
 
 
 *🔄 **Próximamente:** Planeo aprender un framework (como React o Vue.js) y profundizar en herramientas de automatización.*
