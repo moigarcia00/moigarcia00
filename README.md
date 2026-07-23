@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # ¡Hola! Soy [Moisés García Sanz] 👋
 
