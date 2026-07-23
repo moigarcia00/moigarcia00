@@ -22,21 +22,4 @@
 
 *🔄 **Próximamente:** Planeo aprender un framework (como React o Vue.js) y profundizar en herramientas de automatización.*
 
----
-
-### 📬 Contacto (Contact)
-
-¡Me encantaría conectar contigo! Puedes encontrarme en cualquiera de estas plataformas:
-
-<p align="left">
-  <a href="mailto:tu-correo@email.com" target="_blank">
-    <img src="https://shields.io" alt="Email" />
-  </a> &nbsp;
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a> &nbsp;
-  <a href="https://twitter.com" target="_blank">
-    <img src="https://shields.io" alt="Twitter" />
-  </a>
-</p>
 
