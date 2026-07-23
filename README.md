@@ -14,11 +14,12 @@
 **Lenguajes y herramientas que utilizo:**
 
 <p align="left">
-  <img src="https://githubusercontent.com" alt="html5" width="40" height="40"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="css3" width="40" height="40"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="git" width="40" height="40"/>
+  <img src="https://jsdelivr.net" alt="html5" width="40" height="40"/> &nbsp;
+  <img src="https://jsdelivr.net" alt="css3" width="40" height="40"/> &nbsp;
+  <img src="https://jsdelivr.net" alt="javascript" width="40" height="40"/> &nbsp;
+  <img src="https://jsdelivr.net" alt="git" width="40" height="40"/>
 </p>
+
 
 *🔄 **Próximamente:** Planeo aprender un framework (como React o Vue.js) y profundizar en herramientas de automatización.*
 
