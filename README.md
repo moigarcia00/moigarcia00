@@ -1,5 +1,5 @@
 
-# ¡Hola! Soy [Moisés García Sanz] 👋
+# ¡Hola! Soy Moisés García Sanz 👋
 
 ### 🚀 Sobre mí (About Me)
 ¡Bienvenido/a a mi perfil de GitHub! Soy un desarrollador enfocado en el desarrollo web Frontend. Me apasiona transformar ideas en experiencias digitales interactivas, limpias y funcionales. Actualmente estoy creando mis primeros proyectos reales para consolidar mis bases y seguir creciendo en el mundo tecnológico.
