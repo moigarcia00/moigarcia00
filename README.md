@@ -16,9 +16,10 @@
 <p align="left">
   <img src="https://shields.io" alt="HTML5" />
   <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="JAVASCRIPT" />
-  <img src="https://shields.io" alt="GIT" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="Git" />
 </p>
+
 
 
 
