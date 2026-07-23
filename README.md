@@ -14,10 +14,10 @@
 **Lenguajes y herramientas que utilizo:**
 
 <p align="left">
-  <img src="https://jsdelivr.net" alt="html5" width="40" height="40"/> &nbsp;
-  <img src="https://jsdelivr.net" alt="css3" width="40" height="40"/> &nbsp;
-  <img src="https://jsdelivr.net" alt="javascript" width="40" height="40"/> &nbsp;
-  <img src="https://jsdelivr.net" alt="git" width="40" height="40"/>
+  <img src="https://shields.io" alt="HTML5" /> &nbsp;
+  <img src="https://shields.io" alt="CSS3" /> &nbsp;
+  <img src="https://shields.io" alt="JavaScript" /> &nbsp;
+  <img src="https://shields.io" alt="Git" />
 </p>
 
 
