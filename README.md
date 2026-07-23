@@ -25,4 +25,17 @@
 
 *🔄 **Próximamente:** Planeo aprender un framework (como React o Vue.js) y profundizar en herramientas de automatización.*
 
+### 📫 Contacto (Get in touch)
+
+¡Me encantaría conectar contigo! Puedes encontrarme o escribirme en:
+
+<p align="center">
+  <a href="mailto:tu-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/tu-usuario-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 
